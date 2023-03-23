@@ -28,7 +28,11 @@ Today, AI is a rapidly advancing field with the potential to revolutionize many 
 
 - based on mathematical  model of human brain neuron
 
-- weighted sum = xiwi.
+- weighted sum = 
+  
+  $$
+  \sum xiwi
+  $$
 
 - weight = value assigned to the input that determine the impact of the input
 
