@@ -41,11 +41,10 @@ Today, AI is a rapidly advancing field with the potential to revolutionize many 
 - activation function = evaluates if the threshold is reached
   
   $$
-  f(x)=
-\begin{cases} 
-1, if & \sum wx+b \geq 0 \\ 
-0, if & \sum wx+b \leq 0 
-\end{cases}
+  
+\text 1, if  \sum wx+b \geq 0 \\ 
+\text 0, if \sum wx+b \leq 0 
+
   $$
 
 ## Binary classification in ANN
