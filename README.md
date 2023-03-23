@@ -22,4 +22,14 @@ Today, AI is a rapidly advancing field with the potential to revolutionize many 
 
 
 
+### Perceptron
+
+![](src/perceptron.png)
+
+- a single unit of logic in an ANN 
+
+- a single node in a bigger network, meant to mimic a neuron inside a human brain
+
+-  
+
 
