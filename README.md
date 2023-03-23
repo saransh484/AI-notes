@@ -32,19 +32,17 @@ Today, AI is a rapidly advancing field with the potential to revolutionize many 
 
 - based on mathematical  model of human brain neuron
 
-- weighted sum =  $\sum_{i=1}^n xi*wi$
+- weighted sum =  $\sum_{i=1}^n xi*wi$.
 
 - weight = value assigned to the input that determine the impact of the input
 
 - bias = numerical value to adjust the threshold value for neuron's activation 
 
-- activation function = evaluates if the threshold is reached
+- activation function = evaluates if the threshold is reached.
   
   $$
-  
-\text 1, if  \sum wx+b \geq 0 \\ 
-\text 0, if \sum wx+b \leq 0 
-
+  \text 1, if \sum wx+b \geq 0 \\
+\text 0, if \sum wx+b \leq 0
   $$
 
 ## Binary classification in ANN
