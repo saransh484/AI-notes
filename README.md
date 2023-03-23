@@ -30,6 +30,21 @@ Today, AI is a rapidly advancing field with the potential to revolutionize many 
 
 - a single node in a bigger network, meant to mimic a neuron inside a human brain
 
--  
+- based on mathematical  model of human brain neuron
+
+- weighted sum =  $ \sum_{i=1}^n xi*wi$
+
+- weight = value assigned to the input that determine the impact of the input
+
+- bias = numerical value to adjust the threshold value for neuron's activation 
+
+- activation function = evaluates if the threshold is reached
+  
+  $$
+  f(x)=\begin{cases} 
+1, if & \sum wx+b \geq 0 \\ 
+0, if & \sum wx+b \leq 0 
+\end{cases}
+  $$
 
 
