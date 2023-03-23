@@ -52,4 +52,26 @@ Today, AI is a rapidly advancing field with the potential to revolutionize many 
 \end{cases}
   $$
 
+## Binary classification in ANN
 
+![](src/BC.jpg)
+
+- supervised learning model
+
+- model is trained to predicts either true or false output
+
+- adjusts weights and bias to minimize the error in the output
+
+
+
+## ANN Regression
+
+![](src/ANN.jpg)
+
+
+
+
+
+## Multiclass Classification
+
+![](src/MCC.jpg)
