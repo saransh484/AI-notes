@@ -69,3 +69,27 @@ Today, AI is a rapidly advancing field with the potential to revolutionize many 
 - model is trained to predicts multiple possible output
 
 - adjusts weights and bias to minimize the error in the output
+
+## Types of AI
+
+- Weak AI
+  
+  - it is only trained for one specific task.
+  
+  - fail in unpredictable ways if it goes beyond its limits.
+  
+  - not capable of self-awareness, consciousness, or general intelligence
+
+- General AI
+  
+  - possess intelligence and cognitive abilities similar to that of humans
+  
+  - ability to reason, learn, understand, and communicate in natural languages
+
+- Super AI
+  
+  - hypothetical AI
+  
+  - surpass the intelligence of the most intelligent humans in every cognitive task
+  
+  - ability to learn and adapt at a speed far beyond human capabilities
