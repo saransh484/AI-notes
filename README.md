@@ -1,6 +1,6 @@
 ## What is AI
 
-AI stands for "Artificial Intelligence," which refers to the development of computer systems that can perform tasks that would typically require human intelligence. These tasks include things like recognizing speech or images, making decisions, and learning from experience. AI algorithms are designed to mimic human cognitive abilities, such as reasoning, problem-solving, and perception, using mathematical and statistical methods to process large amounts of data. AI is used in a variety of applications, from chatbots and virtual assistants to self-driving cars and medical diagnosis systems
+AI stands for "Artificial Intelligence", which refers to the development of computer systems that can perform tasks that would typically require human intelligence. These tasks include things like recognizing speech or images, making decisions, and learning from experience. AI algorithms are designed to mimic human cognitive abilities, such as reasoning, problem-solving, and perception, using mathematical and statistical methods to process large amounts of data. AI is used in a variety of applications, from chatbots and virtual assistants to self-driving cars and medical diagnosis systems
 
 ## History of AI
 
