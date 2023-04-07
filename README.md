@@ -88,7 +88,7 @@ Today, AI is a rapidly advancing field with the potential to revolutionize many 
 
 - Super AI
   
-  - hypothetical AI
+  - Hypothetical AI
   
   - surpass the intelligence of the most intelligent humans in every cognitive task
   
